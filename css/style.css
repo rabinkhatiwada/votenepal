@@ -1,0 +1,31 @@
+/* **** Styles for all *****/
+
+
+
+
+
+
+
+
+
+
+/************Media Queries for the responsiveness*********/
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+	
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/**********extra small devices Only**********/
+@media (max-width: 767px) {
+
+}
+/********** Super extra small devices Only**********/
+@media (max-width: 479px) {
+
+}
